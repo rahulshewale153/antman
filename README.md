@@ -1,15 +1,19 @@
 # AntMan
-    In that project I have target to implement code according to product development. use thrid party tools and libarary which will be help understand hows it work and how we can integarte in our project
-
-
+    In that project I have target to implement code according to product development.Use thrid party tools 
+    and library which will be help understand hows its work and how we can integarte in our project
+    
 Following are future development plan
-## Project Step
+
+## Project Setup
     1) Clone Project from Git repo
     1) Create Make file
     2) Create Dockerfile for run basic go project
     3) Create docker-compose file to run postgres with Golang project
     4) Make Clean Architecture for CRUD Operation
     5) Wite unit test for all files
+
+## Migration
+    1) Write DB Migration file
 
 ## Jenkins
     1) Configure Jenkins with git repository
